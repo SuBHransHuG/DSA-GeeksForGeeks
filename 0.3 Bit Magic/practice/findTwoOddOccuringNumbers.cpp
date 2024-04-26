@@ -15,6 +15,7 @@ void twoOddOccuring(int arr[], int size){
     //         cout<<arr[i]<<" ";
     //     }
     // }
+    // efficent approach
     int res1 = 0,res2 = 0,r = 0;;
     for(int i = 0; i<size;i++){
         r = r^arr[i];
