@@ -7,7 +7,7 @@ public class Test5 {
         }
     }
     public static void main(String[] args) {
-       int value =  fun(9);
-        System.out.println(value);
+       int val =  fun(9);
+        System.out.println(val);
     }
 }
